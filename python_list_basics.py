@@ -1,6 +1,8 @@
-import math
-
 """
+AUTHOR: Faith Moselle O. Paule
+PROGRAM CODE: BCS13
+DATE: S.Y. 2022-2023
+
 PROGRAM: Python List Basics & Git Workflow Practice
 LANGUAGE: Python 3
 TOPIC: Basic Python - Strings, Lists, List Methods, Arithmetic Operations
@@ -22,6 +24,7 @@ GIT WORKFLOW PRACTICE:
 - Add collaborator: 'shewhocode8'
 - Push to remote: git push origin main
 """
+import math
 
 # ============================================================================
 # SECTION 1: BASIC PRINT STATEMENTS
