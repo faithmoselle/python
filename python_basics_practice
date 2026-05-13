@@ -1,4 +1,8 @@
 '''
+AUTHOR: Faith Moselle O. Paule
+PROGRAM CODE: BCS13
+DATE: S.Y. 2022-2023
+
 Basic Python script that demonstrates:
 1. Output statements - printing a greeting and personal information (name, course, hobbies)
 2. Variable assignment - storing strings and an integer
