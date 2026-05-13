@@ -1,0 +1,20 @@
+'''
+Basic Python script that demonstrates:
+1. Output statements - printing a greeting and personal information (name, course, hobbies)
+2. Variable assignment - storing strings and an integer
+3. Type conversion (type casting) - converting an integer to float, string, boolean, and printing an integer literal
+Learning fundamental Python concepts: printing to console, working with different data types, and explicit type conversion.
+'''
+print ("Hello Word")
+name = "Name: Faith Paule"
+print (name)
+course = "Course: BS Computer Science"
+print (course)
+hobbies = "Hobbies: Volleyball, Digital Design, Programming, Movies, and Playing with my pets."
+print (hobbies)
+
+x = 50 
+print (float(x))
+print (str(x))
+print (bool(x))
+print (int(100))
