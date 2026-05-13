@@ -1,6 +1,7 @@
 """
-Name: Faith Moselle O. Paule
-Program Code: BCS13
+AUTHOR: Faith Moselle O. Paule
+PROGRAM CODE: BCS13
+DATE: S.Y. 2022-2023
 ==================================================
 BCS13_Paule_MiniAct230505
 LANGUAGE: Python 3
