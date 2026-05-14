@@ -1,7 +1,6 @@
 """
 AUTHOR: Faith Moselle O. Paule
-PROGRAM CODE: BCS13
-DATE: S.Y. 2022-2023
+DATE:
 
 PROGRAM: Binary Number Generator (Power Set Range)
 FILE: binary_generator.py
