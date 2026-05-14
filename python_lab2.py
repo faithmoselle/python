@@ -4,7 +4,6 @@ PROGRAM CODE: BCS13
 DATE: S.Y. 2022-2023
 
 PROGRAM: Vet Academy Pet Selection System
-FILE: vet_academy_pet_selector.py
 LANGUAGE: Python 3
 TOPIC: Object-Oriented Programming (OOP) - Classes and Objects
 TECH STACK: Python Standard Library
