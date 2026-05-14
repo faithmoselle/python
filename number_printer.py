@@ -2,8 +2,7 @@
 AUTHOR: Faith Moselle O. Paule
 PROGRAM CODE: BCS13
 DATE: S.Y. 2022-2023
-"""
-"""
+
 PROGRAM: Simple Number Repetition Program
 FILE: number_printer.py
 LANGUAGE: Python 3
