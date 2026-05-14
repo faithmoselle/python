@@ -20,9 +20,6 @@ PROGRAM FLOW:
    c. Ask if user wants to continue
 3. Display total word count
 4. Display all words in the list
-
-AUTHOR: [Student Name]
-DATE: [Current Date]
 """
 
 # ============================================================================
