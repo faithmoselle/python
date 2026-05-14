@@ -1,4 +1,7 @@
 """
+AUTHOR: Faith Moselle O. Paule
+DATE: 
+
 PROGRAM: Factorial Range Printer
 LANGUAGE: Python 3
 TOPIC: Basic Python - Loops and Factorial
